@@ -18,16 +18,16 @@ Here are some ideas to get you started:
 
 
 <div align="center">
+<p style="align:centre"><img src="assets/tobd-black-red-large.jpg" width="600px"></p>
 
-![The OffBeat Doc](assets/logo-red-black.png)
 
-<span style='font-size: 14px; font-family: "Lucida Console"; color: rgb(226, 80, 65); font-weight: bold;'>#</span><span style="font-size: 14px;"><span style='font-family: "Lucida Console"; color: rgb(226, 80, 65); font-weight: bold;'>medicine</span><span style='font-family: "Lucida Console"; color: rgb(226, 80, 65);'>&nbsp;</span><span style='font-family: "Lucida Console"; color: rgb(44, 130, 201); font-weight: bold;'>#coding&nbsp;</span><span style='font-family: "Lucida Console"; color: rgb(26, 188, 156); font-weight: bold;'>#technology&nbsp;</span><span style='font-family: "Lucida Console"; color: rgb(147, 101, 184); font-weight: bold;'>#lifestyle</span><span style="font-family: Calibri; color: black;">&nbsp;&nbsp;&nbsp;</span><span style='font-family: "Lucida Console"; color: rgb(71, 85, 119); font-weight: bold;'>&amp;&nbsp;beyond&nbsp;</span></span><span style='font-size: 14px; font-family: "Lucida Console"; color: rgb(71, 85, 119); font-weight: bold;'>;)</span>
+<span style='color: rgb(226, 80, 65);'>#</span><span style="font-size: 14px;"><span style='font-family: "Lucida Console"; color: rgb(226, 80, 65); font-weight: bold;'>medicine</span><span style='font-family: "Lucida Console"; color: rgb(226, 80, 65);'>&nbsp;</span><span style='font-family: "Lucida Console"; color: rgb(44, 130, 201); font-weight: bold;'>#coding&nbsp;</span><span style='font-family: "Lucida Console"; color: rgb(26, 188, 156); font-weight: bold;'>#technology&nbsp;</span><span style='font-family: "Lucida Console"; color: rgb(147, 101, 184); font-weight: bold;'>#lifestyle</span><span style="font-family: Calibri; color: black;">&nbsp;&nbsp;&nbsp;</span><span style='font-family: "Lucida Console"; color: rgb(71, 85, 119); font-weight: bold;'>&amp;&nbsp;beyond&nbsp;</span></span><span style='font-size: 14px; font-family: "Lucida Console"; color: rgb(71, 85, 119); font-weight: bold;'>;)</span>
 
 #### 👉 [theoffbeatdoc.github.io](https://theoffbeatdoc.github.io) 👈
 
 </div>
 
-<!--p style="align:centre"><img src="assets/logo-red-black.png" width="600px"></p-->
+
 <h1><img src="assets/Hi.gif" width="30px"> Hey, I'm Koustav!</h1>
 
 >>Living, Aspiring, Exploring...
