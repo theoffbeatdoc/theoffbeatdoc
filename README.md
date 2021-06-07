@@ -37,4 +37,9 @@ Here are some ideas to get you started:
 ### 🤔 Medicine vs Coding
 I code because I love programming! At the same time I believe working on AI Healthcare projects being a doctor would be great. So, I would definitely pursue Medicine as well as hold onto my passion for coding. Also, I'd like more people to embrace modern technology to keep healthy and improve their lifestyle. That's why I've also decided to write articles on medicine, technology, lifestyle and beyond.
 
+### 📝Recent Blogs
+
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@theoffbeatdoc/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@theoffbeatdoc/0" alt="Recent Article 0"> 
+
+
 ## ❗ I'll edit this readme shortly. It's incomplete. XD
