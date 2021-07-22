@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 <!--p style="align:centre"><img src="assets/tobd-black-red-large.jpg" width="600px"></p-->
-<!--p style="align:centre"><img src="assets/github-readme-banner.jpg"></p-->
-<p style="align:centre"><img src="https://theoffbeatdoc.github.io/offbeat-assets/images/TheOffBeatDocLogo.svg"></p>
+<p style="align:centre"><img src="assets/github-readme-banner-black.jpg"></p>
 
 #### 👉 [theoffbeatdoc.github.io](https://theoffbeatdoc.github.io) 👈
 
@@ -43,4 +42,3 @@ I code because I love programming! At the same time I believe working on AI Heal
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@theoffbeatdoc/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@theoffbeatdoc/0" alt="Recent Article 0"> 
 
 
-## ❗ I'll edit this readme shortly. It's incomplete. XD
