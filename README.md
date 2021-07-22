@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 <div align="center">
 <!--p style="align:centre"><img src="assets/tobd-black-red-large.jpg" width="600px"></p-->
-<p style="align:centre"><img src="assets/github-readme-banner.jpg"></p>
+<!--p style="align:centre"><img src="assets/github-readme-banner.jpg"></p-->
+<p style="align:centre"><img src="https://theoffbeatdoc.github.io/offbeat-assets/images/TheOffBeatDocLogo.svg"></p>
 
 #### 👉 [theoffbeatdoc.github.io](https://theoffbeatdoc.github.io) 👈
 
