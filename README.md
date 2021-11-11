@@ -40,7 +40,7 @@ I code because I love programming! At the same time I believe working on AI Heal
 ### 📝Recent Blogs
 
 <!-- BLOG-POST-LIST:START -->
-- [How Artificial Intelligence (AI) will cause an Evolution in Classical Medicine and Healthcare?](http://feedproxy.google.com/~r/theoffbeatdocblogs/~3/kux_mMHWSvM/AI-Evolution-Healthcare.html)
+- [How Artificial Intelligence (AI) will cause an Evolution in Classical Medicine and Healthcare?](https://theoffbeatdoc.blogspot.com/2021/06/AI-Evolution-Healthcare.html)
 <!-- BLOG-POST-LIST:END -->
 
  <!--a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@theoffbeatdoc/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@theoffbeatdoc/0" alt="Recent Article 0"--> 
