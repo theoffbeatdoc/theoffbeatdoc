@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 ### 📝Recent Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [AlphaFold2, a wonder! AI cracking the "Protein Folding Problem"](http://blog.theoffbeatdoc.com/2022/02/AF2-protein-folding-problem.html)
+- [How Artificial Intelligence (AI) will cause an Evolution in Classical Medicine and Healthcare?](http://blog.theoffbeatdoc.com/2021/06/AI-Evolution-Healthcare.html)
 <!-- BLOG-POST-LIST:END -->
 
  <!--a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@theoffbeatdoc/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@theoffbeatdoc/0" alt="Recent Article 0"--> 
